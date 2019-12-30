@@ -1,0 +1,2 @@
+include ':app', ':Demo01', ':zhuoye01', ':bailang20191202', ':demo02', ':demo03', ':bailang20191204', ':demo4', ':demo04', ':bailang20191206', ':bailang20191209', ':project', ':weekly', ':bailang20191216', ':myapplication', ':monthlya', ':bailang20191224', ':dengxianchao20191224', ':myapplication2', ':myapplication3', ':myapplication3', ':bailang201912130'
+rootProject.name='My Application'
